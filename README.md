@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Cristiana
+- 👀 I’m interested in merging music and programming
+- 🌱 I’m currently learning React from the Complete React Developer in 2022 (w/ Redux, Hooks, GraphQL) on Udemy
+- 📫 How to reach me: mateas.cri@gmail.com
